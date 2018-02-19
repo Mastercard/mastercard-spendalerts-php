@@ -1,0 +1,33 @@
+MasterCard\Api\Spendalerts\All
+ [x] 100 example cardregister postrequest
+ [x] 101 example retrieve uuid postrequest
+ [x] 102 example cardrverify postrequest
+ [x] 103 example retrievepan getrequest
+ [x] 104 example cardupdate postrequest
+ [x] 105 example controls resource post
+ [x] 106 example controls resource get
+ [x] 107 example controls resource delete
+ [x] 108 example alerts resource post
+ [x] 109 example alerts resource get
+ [x] 110 example alerts resource delete
+ [x] 111 example channel resource post
+ [x] 112 example channel resource get
+ [x] 113 example channel resource delete
+ [x] 114 example crossborder post
+ [x] 115 example crossborder get
+ [x] 116 example crossborder delete
+ [x] 117 example amount post
+ [x] 118 example amount get
+ [x] 119 example amount delete
+ [x] 120 example declines postrequest
+ [x] 121 example declines getrequest
+ [x] 124 example declines deleterequest
+ [x] 137 example card decline post
+ [x] 138 example card decline get
+ [x] 139 example card decline delete
+ [x] 149 example notification post
+ [x] 153 example transaction history resource get
+ [x] 154 example controls history resource get
+ [x] 155 example batch resource post
+ [x] 201 example cardregister deleterequest
+
